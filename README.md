@@ -1,1 +1,1 @@
-spring-boot-app
+Simple restful web service created using Spring Boot.
